@@ -8,7 +8,7 @@
  ## Sobre mí:
  - :computer: Soy Full Stack Developer.
  - :book: Siempre estoy aprendiendo algo nuevo.
- - :rocket: Actualmente estoy enfocada en lograr mi primer experiencia laboral.
+ - :rocket: Actualmente estoy enfocada en encontrar mi primer experiencia laboral.
  - :star: Mi objetivo es aportar valor a la Web 3.0.
 
 ##  Mi experiencia reciente:
