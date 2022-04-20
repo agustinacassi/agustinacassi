@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.tini@gmail.com) 
  
  
-## Ver mi <a href='https://drive.google.com/file/d/1aY15-whfMnjq1OXXr2JotQjpRZQFHcsG/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
+## Ver mi <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
  
  ## Sobre mí:
  - :computer: Soy Full Stack Developer.
