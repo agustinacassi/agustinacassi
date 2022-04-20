@@ -1,4 +1,4 @@
-<img href="https://drive.google.com/file/d/1hDDEhxc_kkbUAXAw5SeWEdD12VHRopLt/view?usp=sharing" > 
+<img src="https://drive.google.com/file/d/1hDDEhxc_kkbUAXAw5SeWEdD12VHRopLt/view?usp=sharing" > 
 
 ## Hola 👋, soy Tini Cassi.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinideveloper/) 
