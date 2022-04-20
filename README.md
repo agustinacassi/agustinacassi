@@ -35,4 +35,3 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tinideveloper)
