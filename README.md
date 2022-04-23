@@ -1,13 +1,14 @@
 ## Hola 👋, soy Agus Cassi, pero me dicen Tini.
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinideveloper/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.tini@gmail.com) 
  
  
-## Ver mi <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
+## Pasá por acá a ver mi <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
  
  ## Sobre mí:
- - :computer: Soy Full Stack Developer.
- - :book: Siempre estoy aprendiendo algo nuevo.
+ - :computer: Soy Full Stack Developer. 
+ - :book: Soy muy curiosa, siempre estoy aprendiendo algo nuevo.
  - :rocket: Actualmente estoy enfocada en encontrar mi primer experiencia laboral.
  - :star: Mi objetivo es aportar valor a la Web 3.0.
 
@@ -34,4 +35,4 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
- 
+
