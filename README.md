@@ -1,24 +1,27 @@
-## Hola 👋, soy Agustina Cassi.
+# Hello 👋, I'm Agustina Cassi 👩‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinideveloper/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.tini@gmail.com) 
- 
- 
-## Pasá por acá a ver mi <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
- 
- ## Sobre mí:
- - :computer: Soy Full Stack Developer. 
- - :book: Soy muy curiosa, siempre estoy aprendiendo algo nuevo.
- - :rocket: Actualmente estoy enfocada en encontrar mi primer experiencia laboral.
- - :star: Mi objetivo es aportar valor a la Web 3.0.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinacassi/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/agustinacassi/) 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://tinideveloper.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.agustina.cassi@gmail.com) 
 
-##  Mi experiencia reciente:
-- Participé en un Bootcamp de Programación de Javascript.
-- Desarrollé en grupo de un Marketplace, un sistema de compra-venta de productos gamer.
-- Desarrollé en equipo una Plataforma de Eventos Virtuales tipo Streaming.
-- Programé un sitio web de Películas consumiendo la API de The Movie Data-Base.
+***
+
+## I'm a full stack developer & a lawyer based in Argentina
+
+I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. 
+
+I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions. 
+
+I have everything you need to enhance your project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast.
+
+I want to work in a team, to investigate and contribute with proposals that pushes the team forward, and to continue developing my technical and soft skills.
+
  
-## Mi Stack y las herramientas que utilizo:
+## You can find my resume here <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
+ 
+ 
+### My tech stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
