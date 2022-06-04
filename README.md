@@ -7,7 +7,7 @@
 
 ***
 
-## I'm a full stack developer & lawyer based in Argentina
+## I'm a full stack developer & lawyer based in Argentina.
 
 I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. 
 
