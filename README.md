@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinacassi/) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/agustinacassi/) 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://tinideveloper.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.agustina.cassi@gmail.com) 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://tinideveloper.medium.com/)
 
 ***
 
@@ -13,7 +13,7 @@ I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, H
 
 I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions. 
 
-I have everything you need to enhance your project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast.
+I have everything you need to enhance your project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast. From time to time I create content in my Medium Blog.
 
 I want to work in a team, to investigate and contribute with proposals that pushes the team forward, and to continue developing my technical and soft skills.
 
