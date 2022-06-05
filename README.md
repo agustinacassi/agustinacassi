@@ -46,6 +46,4 @@ I have everything you need to enhance your project: passion for innovation, idea
 I want to work in a team, to investigate and contribute with proposals that pushes the team forward, and to continue developing my technical and soft skills.
 
  
-### You can find my resume here <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
- 
  
