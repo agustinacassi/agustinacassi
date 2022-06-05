@@ -9,18 +9,8 @@
 
 ## I'm a full stack developer & lawyer based in Argentina.
 
-I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. 
+***
 
-I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions. 
-
-I have everything you need to enhance your project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast. From time to time I create content in my Medium Blog.
-
-I want to work in a team, to investigate and contribute with proposals that pushes the team forward, and to continue developing my technical and soft skills.
-
- 
-## You can find my resume here <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
- 
- 
 ### My tech stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,3 +27,17 @@ I want to work in a team, to investigate and contribute with proposals that push
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+
+I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. 
+
+I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions. 
+
+I have everything you need to enhance your project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast. From time to time I create content in my Medium Blog.
+
+I want to work in a team, to investigate and contribute with proposals that pushes the team forward, and to continue developing my technical and soft skills.
+
+ 
+## You can find my resume here <a href='https://drive.google.com/file/d/1npuFiqMplKILe8wU7bU39oqpSeXYuG25/view?usp=sharing' target=_blank><u>Currículum Vitae</u>.</a></p>
+ 
+ 
