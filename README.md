@@ -37,7 +37,7 @@
 
 ### About me
 
-I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. 
+I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. Currently developing my skills learning Solidity and Chainlink.
 
 I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions. 
 
