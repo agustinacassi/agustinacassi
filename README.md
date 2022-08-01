@@ -10,7 +10,7 @@
 </div>
 
 
-## <div align="center"> I'm a full stack developer & lawyer based in Argentina. </div>
+## <div align="center"> I'm a full stack javascript developer, jr. blockchain developer & lawyer based in Argentina. </div>
 
 
 
@@ -37,13 +37,16 @@
 
 ### About me
 
-I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. Currently developing my skills learning Solidity and Chainlink.
+I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. Currently enhancing my skills in Web3 Development Ecosystem as  scholarship in Platzi Ethereum Developer Program.
 
-I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions. 
+I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions pushing society and Internet usability to a whole new level.
 
-I have everything you need to enhance your project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast. From time to time I create content in my Medium Blog.
+I have everything to enhance a project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast. From time to time I create content in my Medium Blog.
 
 I want to work in a team, to investigate and contribute with proposals that pushes the team forward, and to continue developing my technical and soft skills.
+
+Find more about me [here](https://linktr.ee/tinicassi) ✅
+
 
  
  
