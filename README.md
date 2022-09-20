@@ -10,7 +10,7 @@
 </div>
 
 
-## <div align="center"> I'm a full stack javascript developer, jr. blockchain developer & lawyer based in Argentina. </div>
+## <div align="center"> I'm a Full Stack Javascript | Blockchain Developer & Lawyer based in Argentina. </div>
 
 
 
@@ -37,9 +37,11 @@
 
 ### About me
 
-I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. Currently enhancing my skills in Web3 Development Ecosystem as  scholarship in Platzi Ethereum Developer Program.
+As a Full Stack Web2 Developer, I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. 
 
-I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions pushing society and Internet usability to a whole new level.
+As a Full Stack Web3 Developer, I use Solidity, Web3.js, Ethers.js, Chainlink and Open Zeppelin.
+
+I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career, going from Lawyer to Developer. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions pushing society and Internet usability to a whole new level.
 
 I have everything to enhance a project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast. From time to time I create content in my Medium Blog.
 
