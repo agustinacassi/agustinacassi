@@ -37,18 +37,14 @@
 
 ### About me
 
-As a Full Stack Web2 Developer, I deliver solutions using JavaScript, Node.js, Express, React, PSQL, Firebase, HTML and CSS. 
+As a full-stack web developer, I specialize in using JavaScript, Node.js, Express, React, PSQL, MongoDB, Firebase, HTML, and CSS to deliver solutions. Additionally, I also have experience with Ethereum, Solidity, Web3.js, Ethers.js, Chainlink, and Open Zeppelin as a full-stack web3 developer.
 
-As a Full Stack Web3 Developer, I use Solidity, Web3.js, Ethers.js, Chainlink and Open Zeppelin.
+I made the switch from being a lawyer to a developer because I believe that technology is the best way to improve people's lives. I am extremely passionate about creating solutions through code and making sure they are user-friendly.
 
-I consider that technology is the right path to improve people’s lives, that’s the reason why I decided to change my professional career, going from Lawyer to Developer. I'm pasionate about Web 3.0 and Blockchain Technology. I believe in the potential of this technology and the ecosistem to change social paradigms and design efficient solutions pushing society and Internet usability to a whole new level.
+I strongly believe in the potential of Web 3.0 and blockchain technology to change societal paradigms and create efficient solutions that push society and internet usability to a whole new level.
 
-I have everything to enhance a project: passion for innovation, ideals, energy and an inexhaustible curiosity that I feed every day learning new things in many online platforms. Having a method to accomplish all purposes is what defines me: I thruly believe in the value of designing a plan to achieve every goal. That's why I am Notion enthusiast. From time to time I create content in my Medium Blog.
+I bring a lot to the table for any project, including a passion for innovation, strong ideals, energy, and an unquenchable curiosity that I constantly feed by learning new things on various online platforms. I am also a big believer in having a plan for achieving goals and I use Notion to keep myself organized. Occasionally, I also share my thoughts and experiences on my Medium blog.
 
-I want to work in a team, to investigate and contribute with proposals that pushes the team forward, and to continue developing my technical and soft skills.
+I am excited to work with a team and contribute my ideas to help move the team forward. If you're interested, feel free to contact me!
 
 Find more about me [here](https://linktr.ee/tinicassi) ✅
-
-
- 
- 
