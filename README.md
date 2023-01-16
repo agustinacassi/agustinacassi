@@ -41,7 +41,7 @@
 
 ### About me
 
-As a full-stack web developer, I specialize in using JavaScript, Node.js, Express, React, PSQL, MongoDB, Firebase, HTML, and CSS to deliver solutions. Additionally, I also have experience with Ethereum, Solidity, Web3.js, Ethers.js, Chainlink, and Open Zeppelin as a full-stack web3 developer.
+As a full-stack web developer, I specialize in using JavaScript, Node.js, Express, React, PSQL, MongoDB, Firebase, HTML, and CSS to deliver solutions. I also have experience with Material UI, Chakra UI and Styled Components. Additionally, I also have experience with Ethereum, Solidity, Web3.js, Ethers.js, Web3React, Chainlink, and Open Zeppelin as a full-stack web3 developer.
 
 I made the switch from being a lawyer to a developer because I believe that technology is the best way to improve people's lives. I am extremely passionate about creating solutions through code and making sure they are user-friendly.
 
