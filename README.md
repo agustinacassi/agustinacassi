@@ -39,6 +39,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&layout=compact&count_private=true)
 
 Find more about me [here](https://linktr.ee/tinicassi) ✅
