@@ -39,18 +39,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-### About me
-
-As a full-stack web developer, I specialize in using JavaScript, Node.js, Express, React, PSQL, MongoDB, Firebase, HTML, and CSS to deliver solutions. I also have experience with Material UI, Chakra UI and Styled Components. Additionally, I also have experience with Ethereum, Solidity, Web3.js, Ethers.js, Web3React, Chainlink, and Open Zeppelin as a full-stack web3 developer.
-
-I made the switch from being a lawyer to a developer because I believe that technology is the best way to improve people's lives. I am extremely passionate about creating solutions through code and making sure they are user-friendly.
-
-I strongly believe in the potential of Web 3.0 and blockchain technology to change societal paradigms and create efficient solutions that push society and internet usability to a whole new level.
-
-I bring a lot to the table for any project, including a passion for innovation, strong ideals, energy, and an unquenchable curiosity that I constantly feed by learning new things on various online platforms. I am also a big believer in having a plan for achieving goals and I use Notion to keep myself organized. Occasionally, I also share my thoughts and experiences on my Medium blog.
-
-I am excited to work with a team and contribute my ideas to help move the team forward. If you're interested, feel free to contact me!
-
-![Tini Cassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinicassi&count_private=true)
+![Agustina Cassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinacassi&count_private=true)
 
 Find more about me [here](https://linktr.ee/tinicassi) ✅
