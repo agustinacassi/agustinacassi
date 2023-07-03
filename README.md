@@ -39,6 +39,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-![Agustina Cassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinacassi&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&layout=compact)
 
 Find more about me [here](https://linktr.ee/tinicassi) ✅
