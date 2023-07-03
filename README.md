@@ -51,6 +51,6 @@ I bring a lot to the table for any project, including a passion for innovation, 
 
 I am excited to work with a team and contribute my ideas to help move the team forward. If you're interested, feel free to contact me!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&layout=compact&count_private=true)](https://github.com/agustinacassi/github-readme-stats)
+![Tini Cassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinicassi&count_private=true)
 
 Find more about me [here](https://linktr.ee/tinicassi) ✅
