@@ -71,5 +71,5 @@
 
 </div>
 
-🎯 Find more about me [here](https://linktr.ee/tinicassi)
+🎯 Find more about me [here](https://linktr.ee/agustinacassi)
 
