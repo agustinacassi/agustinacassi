@@ -15,7 +15,7 @@
 <p>
 🌱 Open to work as a Full Stack, Frontend or Backend Developer, as well as Web3 Developer.  
   
-🤓 A huge fan of learning things related to tech, finance & english.
+🤓 A huge fan of learning things related to tech, finance & english. Currently learning Typescript.
 
 📫 Let's work together! You can reach me here: m.agustina.cassi@gmail.com
 </p>
