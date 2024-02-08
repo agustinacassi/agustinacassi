@@ -67,8 +67,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&hide_progress=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agustinacassi&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 </div>
 
 🎯 Find more about me [here](https://linktr.ee/agustinacassi)
