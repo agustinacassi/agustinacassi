@@ -1,5 +1,5 @@
-<h1 align="center"> Hey, I'm Agustina Cassi 👩‍💻 </h1>
-<h2 align="center"> Full Stack Developer & Lawyer based in Argentina </h3>
+<h1 align="center"> I'm Agustina Cassi 👩‍💻 </h1>
+<h2 align="center"> Product-Focused Full Stack Developer & Lawyer based in Argentina </h3>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 <p>
 🌱 Open to work as a Full Stack, Frontend or Backend Developer, as well as Web3 Developer.  
   
-🤓 A huge fan of learning stuff related to tech, startups and product development. 
+🤓 A huge fan of learning stuff related to startups, product development and personal growth. 
 
 📫 Let's work together! You can reach me here: m.agustina.cassi@gmail.com
 </p>
