@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Agustina </h1>
+<h1 align="center"> Hello, I'm Agustina 👩🏻‍💻</h1>
 <h2 align="center"> Product-Focused Full Stack Developer & Lawyer based in Argentina </h3>
 
 <div align="center">
