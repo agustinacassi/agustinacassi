@@ -1,30 +1,32 @@
-<h1 align="center"> Hello, I'm Agustina 👩🏻‍💻</h1>
-<h2 align="center"> Product-Focused Full Stack Developer & Lawyer based in Argentina </h3>
+### <h1 align="center">Hi there, I'm Agustina 👩🏻‍💻</h1>
+
+---
+
+🚀 **Product-Focused Full Stack Developer | Argentina**
+
+I build impactful products mostly using **JavaScript, TypeScript, Node.js & Nest.js**, always prioritizing **scalability, usability, and clean architecture**. Passionate about **problem-solving, product-owning, and continuous learning**, I bring a strategic approach to development, bridging the gap between business and engineering.
+
+---
+
+### 🌟 Why Work With Me?
+- 🔥 **Full Stack Expertise** → From frontend UI/UX to backend architecture.
+- 💡 **Product-Oriented Mindset** → I think beyond code and focus on **delivering value to the users and the business**.
+- 📈 **Data-Driven Decision Making** → Justify, prioritize, estimate & execute.
+- 🎯 **Startup Mentality** → Adaptability, ownership & fast iterations.
+- 🤖 **AI-Driven Approach** → I leverage AI tools like **ChatGPT, Claude, and Grok** to boost efficiency, automate tasks, and stay ahead of trends.
+- 🛠️ **Tech Stack** → React, Next.js, TypeScript, Tailwind, Node.js, NestJS, PostgreSQL **+ constantly learning & integrating new technologies**. If I don't know it, **AI helps me build it!**
+
+📬 Let’s talk: [m.agustina.cassi@gmail.com](mailto:m.agustina.cassi@gmail.com)
+
+---
+
+### 📊 Github Insights
 
 <div align="center">
-
-  <a href="">[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinacassi/)</a>
-  <a href="">[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://agustinacassi.medium.com/)</a>
-  <a href="">[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.agustina.cassi@gmail.com)  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
 </div>
 
-### <p>About me</p>
+---
 
-<p>
-🌱 Open to work as a Full Stack, Frontend or Backend Developer, as well as Web3 Developer.  
-  
-🤓 A huge fan of learning stuff related to startups, product development and personal growth. 
-
-📫 Let's work together! You can reach me here: m.agustina.cassi@gmail.com
-</p>
-
-### <p>Github Stats</p>
-<div align="justify">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&hide_progress=true)
-
-</div>
-
-🎯 Find more about me [here](https://linktr.ee/agustinacassi)
+💡 **More about me** → [Linktree](https://linktr.ee/agustinacassi)
 
