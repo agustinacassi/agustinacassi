@@ -20,6 +20,13 @@ I build impactful products mostly using **JavaScript, TypeScript, Node.js & Nest
 
 ---
 
+### 🛠️ Beyond GitHub
+GitHub shows only a portion of my contributions, I’m currently working in private project using GitLab.
+
+🧠 Check out my activity on GitLab: gitlab.com/agustinacassi
+
+---
+
 ### 📊 Github Insights
 
 <div align="center">
