@@ -17,23 +17,5 @@ I build impactful products mostly using **JavaScript, TypeScript, Node.js & Nest
 - 🛠️ **Tech Stack** → React, Next.js, TypeScript, Tailwind, Node.js, NestJS, PostgreSQL **+ constantly learning & integrating new technologies**. If I don't know it, **AI helps me build it!**
 
 📬 Let’s talk: [m.agustina.cassi@gmail.com](mailto:ac@agustinacassi.dev)
-
----
-
-### 🛠️ Beyond GitHub
-GitHub shows only a portion of my contributions, I’m currently working in private project using GitLab.
-
-🧠 Check out my activity on GitLab here → [Gitlab](https://gitlab.com/agustinacassi)
-
----
-
-### 📊 Github Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacassi&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
-</div>
-
----
-
 💡 **More about me** → [Linktree](https://linktr.ee/agustinacassi)
 
