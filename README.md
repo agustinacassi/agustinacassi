@@ -16,6 +16,6 @@ I build impactful products mostly using **JavaScript, TypeScript, Node.js & Nest
 - 🤖 **AI-Driven Approach** → I leverage AI tools like **ChatGPT, Claude, and Grok** to boost efficiency, automate tasks, and stay ahead of trends.
 - 🛠️ **Tech Stack** → React, Next.js, TypeScript, Tailwind, Node.js, NestJS, PostgreSQL **+ constantly learning & integrating new technologies**. If I don't know it, **AI helps me build it!**
 
-📬 Let’s talk: [m.agustina.cassi@gmail.com](mailto:ac@agustinacassi.dev)
+📬 Let’s talk: [ac@agustinacassi.dev](mailto:ac@agustinacassi.dev)
 💡 **More about me** → [Linktree](https://linktr.ee/agustinacassi)
 
